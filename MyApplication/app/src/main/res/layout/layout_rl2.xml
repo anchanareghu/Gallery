@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="180dp"
+    android:layout_height="180dp">
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view6"
+        android:layout_toRightOf="@id/view6"
+        android:background="@color/purple_200"></View>
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view9"
+        android:layout_toLeftOf="@id/view9"
+        android:background="@color/purple_200"></View>
+
+    <View
+        android:id="@+id/view14"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view1"
+        android:layout_toRightOf="@id/view1"
+        android:background="@color/teal_200"></View>
+
+    <View
+        android:id="@+id/view15"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view2"
+        android:layout_toLeftOf="@id/view2"
+        android:background="@color/teal_200"></View>
+
+    <View
+        android:id="@+id/view16"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view14"
+        android:layout_toRightOf="@id/view14"
+        android:background="@color/teal_700"></View>
+
+    <View
+        android:id="@+id/view17"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view15"
+        android:layout_toLeftOf="@id/view15"
+        android:background="@color/teal_700"></View>
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view13"
+        android:layout_toLeftOf="@id/view5"
+        android:background="@color/purple_200"></View>
+
+    <View
+        android:id="@+id/view4"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view11"
+        android:layout_toLeftOf="@id/view11"
+        android:background="@color/purple_200"></View>
+
+    <View
+        android:id="@+id/view5"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view12"
+        android:layout_toRightOf="@id/view12"
+        android:background="@color/purple_200"></View>
+
+    <View
+        android:id="@+id/view6"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_centerVertical="true"
+        android:background="@color/purple_700"></View>
+
+    <View
+        android:id="@+id/view7"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_centerHorizontal="true"
+        android:background="@color/purple_700"></View>
+
+    <View
+        android:id="@+id/view8"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/purple_700"></View>
+
+    <View
+        android:id="@+id/view9"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@color/purple_700"></View>
+
+    <View
+        android:id="@+id/view10"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view8"
+        android:layout_toRightOf="@id/view8"
+        android:background="@color/teal_700"></View>
+
+    <View
+        android:id="@+id/view11"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view13"
+        android:layout_toLeftOf="@id/view13"
+        android:background="@color/teal_200"></View>
+
+    <View
+        android:id="@+id/view12"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view10"
+        android:layout_toRightOf="@id/view10"
+        android:background="@color/teal_200"></View>
+
+    <View
+        android:id="@+id/view13"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_above="@id/view8"
+        android:layout_toLeftOf="@id/view8"
+        android:background="@color/teal_700"></View>
+
+</RelativeLayout>
