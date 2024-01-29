@@ -25,7 +25,7 @@ To run the app, follow these steps:
 ## Libraries Used
 
 - Picasso: [https://square.github.io/picasso/](https://square.github.io/picasso/)
-- RecyclerView: AndroidX RecyclerView library
+- RecyclerView: Android RecyclerView library
 - Other standard Android libraries for UI components and networking.
 
 ## Folder Structure
