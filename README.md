@@ -28,11 +28,3 @@ To run the app, follow these steps:
 - RecyclerView: Android RecyclerView library
 - Other standard Android libraries for UI components and networking.
 
-## Folder Structure
-
-- `app/src/main/java`: Contains the Java source code.
-- `app/src/main/res`: Contains the resources including layouts, drawables, and values.
-- `app/build.gradle`: Contains the project-level Gradle configuration.
-- `build.gradle`: Contains the app-level Gradle configuration.
-- `settings.gradle`: Contains the project settings.
-
