@@ -9,8 +9,7 @@ This is a basic Android app that fetches images from URLs using the Picasso imag
 - Uses Picasso library for efficient image loading and caching.
 
 ## Screenshots
-
-![](app/src/main/res/drawable/screenshot.png)
+<img src="app/src/main/res/drawable/screenshot.png" width="200" />
 
 ## Setup and Usage
 
